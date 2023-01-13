@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+/* .para{
+	height: 100px;
+	width: 100px
+	background: lightblue;
+} */
+.maindiv{
+	display:flex;
+	justify-content:space-around;
+}
+
+
+
