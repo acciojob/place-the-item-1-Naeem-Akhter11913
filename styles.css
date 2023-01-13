@@ -5,9 +5,10 @@
 	width: 100px
 	background: lightblue;
 } */
-.maindiv{
+.holder{
 	display:flex;
-	justify-content:space-around;
+	justify-content:space-between;
+	flex-wrap: wrap;
 }
 
 
